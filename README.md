@@ -25,3 +25,4 @@ Collection of internal repositories focused on data analysis for experiments con
 | ---------------------------------------------------------------- | -------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [Exp-Reports-SG3](https://github.com/thetasoft/Exp-Reports-SG3)  | private  | Experiments part of the PGP1FB module (1/2)     | [@Alyner](https://github.com/Alyner3), [@mgit4002](https://github.com/mgit4002)           |
 | [Exp-Reports-SG4](https://github.com/thetasoft/Exp-Reports-SG4)  | private  | Experiments part of the PGP1FB module (2/2)     | [@Alyner](https://github.com/Alyner3), [@mgit4002](https://github.com/mgit4002), Daniil   |
+| [Exp-Reports-SG5](https://github.com/thetasoft/Exp-Reports-SG5)  | private  | Experiments part of the PFP1FB module (1/2)     | [@Alyner](https://github.com/Alyner3), [@mgit4002](https://github.com/mgit4002)           |
